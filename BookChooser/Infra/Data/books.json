@@ -1,0 +1,25 @@
+{
+  "Books": [
+    {
+      "title": "The Wealth of Nations",
+      "description": "The Wealth of Nations is a profoundly influential work in the study of economics and examines exactly how nations become wealthy. Adam Smith advocates that by allowing individuals to freely pursue their own self-interest in a free market, without government regulation, nations will prosper."
+    },
+    {
+      "title": "1984",
+      "description": "1984 is a dystopian novella by George Orwell published in 1949, which follows the life of Winston Smith, a low ranking member of ‘the Party’, who is frustrated by the omnipresent eyes of the party, and its ominous ruler Big Brother."
+    },
+    {
+      "title": "A Brief History of Time",
+      "description": "A Brief History Of Time is Stephen Hawking’s way of explaining the most complex concepts and ideas of physics, such as space, time, black holes, planets, stars and gravity to the average Joe, so that even you and I can better understand how our planet was created, where it came from, and where it’s going."
+    },
+    {
+      "title": "Sherlock Holmes",
+      "description": "Sherlock Holmes is a private detective who has keen powers of observation. He lives at 221b Baker Street in London. He notices things that others simply don't and then he draws accurate conclusions about what he sees. He experiences strong mood swings, plays the violin, and is a master of deductive reasoning."
+    },
+    {
+      "title": "Brave New World",
+      "description": "The novel examines a futuristic society, called the World State, that revolves around science and efficiency. In this society, emotions and individuality are conditioned out of children at a young age, and there are no lasting relationships because “every one belongs to every one else” (a common World State dictum)."
+    }
+  ]
+
+}
